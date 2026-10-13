@@ -1,0 +1,6 @@
+Concepto,Vivienda_Actual_USD,Vivienda_Futura_2030_USD,Ahorro_Porcentaje
+Costo_construccion_m2,1000,1200,-20
+Costo_energetico_anual_80m2,1200,300,75
+Desperdicio_material_obra,18,2,"0,89"
+Tiempo_construccion_meses,14,3,78
+Mantenimiento_10_anos,8000,3500,56
